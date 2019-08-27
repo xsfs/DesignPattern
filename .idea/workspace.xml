@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe7c31dd-8992-4653-a805-a7150e9428c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/ExtandPrototypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/ExtandPrototypeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/ShapeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/ShapeManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Prototype/SimplePrototype/PrototypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prototype/SimplePrototype/PrototypeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Prototype/SimplePrototype/SimplePrototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prototype/SimplePrototype/SimplePrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/AbstractFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/ConcreteFactory1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/ConcreteFactory2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/ConcreteProduct11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/ConcreteProduct12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/ConcreteProduct21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/ConcreteProduct22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/Product1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/Product2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,65 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/Circle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/ExtandPrototypeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/Shape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/ShapeManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/Square.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Prototype/SimplePrototype/PrototypeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Prototype/SimplePrototype/SimplePrototype.java">
+        <entry file="file://$PROJECT_DIR$/src/AbstractFactory/AbstractFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+            <state relative-caret-position="170">
+              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -129,6 +79,16 @@
         <option value="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Square.java" />
         <option value="$PROJECT_DIR$/src/Prototype/SimplePrototype/PrototypeTest.java" />
         <option value="$PROJECT_DIR$/src/Prototype/SimplePrototype/SimplePrototype.java" />
+        <option value="$PROJECT_DIR$/src/AbstractFactory/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/AbstractFactory/Product1.java" />
+        <option value="$PROJECT_DIR$/src/AbstractFactory/Product2.java" />
+        <option value="$PROJECT_DIR$/src/AbstractFactory/ConcreteProduct12.java" />
+        <option value="$PROJECT_DIR$/src/AbstractFactory/ConcreteProduct11.java" />
+        <option value="$PROJECT_DIR$/src/AbstractFactory/ConcreteProduct21.java" />
+        <option value="$PROJECT_DIR$/src/AbstractFactory/ConcreteProduct22.java" />
+        <option value="$PROJECT_DIR$/src/AbstractFactory/ConcreteFactory1.java" />
+        <option value="$PROJECT_DIR$/src/AbstractFactory/ConcreteFactory2.java" />
+        <option value="$PROJECT_DIR$/src/AbstractFactory/AbstractFactoryTest.java" />
       </list>
     </option>
   </component>
@@ -157,21 +117,7 @@
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Prototype" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Prototype" type="462c0819:PsiDirectoryNode" />
-              <item name="ExtandPrototype" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Prototype" type="462c0819:PsiDirectoryNode" />
-              <item name="SimplePrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractFactory" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -210,9 +156,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimpleFactoryTest">
+  <component name="RunManager" selected="Application.AbstractFactoryTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractFactory.AbstractFactoryTest" />
+      <module name="DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -306,6 +266,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AbstractFactoryTest" />
         <item itemvalue="Application.SimpleFactoryTest" />
         <item itemvalue="Application.FactoryMethodTest" />
         <item itemvalue="Application.ExtandPrototypeTest" />
@@ -323,12 +284,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566889861662</updated>
-      <workItem from="1566889862858" duration="4460000" />
+      <workItem from="1566889862858" duration="5509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4460000" />
+    <option name="totallyTimeSpent" value="5509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -537,13 +498,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactoryMethod/SimpleFactory/SimpleFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Singleton/HungrySingleton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -618,6 +572,113 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/ConcreteFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/Product1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/Product2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/ConcreteFactory1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/ConcreteFactory2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/ConcreteProduct12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/ConcreteProduct11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/ConcreteProduct21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/ConcreteProduct22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryMethod/SimpleFactory/SimpleFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/AbstractFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
         </state>
       </provider>
     </entry>
