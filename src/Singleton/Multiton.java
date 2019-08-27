@@ -3,6 +3,7 @@ package Singleton;
 import java.util.ArrayList;
 
 public class Multiton {
+    //
     private static ArrayList<Multiton> arrayList= new ArrayList<>();
     private Multiton(int i){
         System.out.println("Multiton"+i+" builded");
