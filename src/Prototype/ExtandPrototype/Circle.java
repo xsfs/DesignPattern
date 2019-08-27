@@ -1,6 +1,6 @@
 package Prototype.ExtandPrototype;
 
-public class Circle implements Shape{
+public class Circle implements Shape{//
     private int R=0;
     public void setR(int r){
         R=r;

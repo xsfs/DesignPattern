@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe7c31dd-8992-4653-a805-a7150e9428c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Singleton/HungrySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/HungrySingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singleton/LazySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/LazySingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singleton/Multiton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/Multiton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singleton/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/SingletonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/ExtandPrototypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/ExtandPrototypeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/ShapeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/ShapeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prototype/SimplePrototype/PrototypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prototype/SimplePrototype/PrototypeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prototype/SimplePrototype/SimplePrototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prototype/SimplePrototype/SimplePrototype.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,37 +24,64 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Singleton/HungrySingleton.java">
+        <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/ExtandPrototypeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/ShapeManager.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Singleton/LazySingleton.java">
+        <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/Square.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            <state relative-caret-position="34">
+              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Singleton/Multiton.java">
+        <entry file="file://$PROJECT_DIR$/src/Prototype/SimplePrototype/PrototypeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            <state relative-caret-position="34">
+              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Singleton/SingletonTest.java">
+        <entry file="file://$PROJECT_DIR$/src/Prototype/SimplePrototype/SimplePrototype.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            <state relative-caret-position="34">
+              <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -74,11 +104,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/Prototype/PrototypeTest.java" />
         <option value="$PROJECT_DIR$/src/Prototype/SimplePrototype.java" />
-        <option value="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Circle.java" />
-        <option value="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Square.java" />
-        <option value="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Shape.java" />
-        <option value="$PROJECT_DIR$/src/Prototype/ExtandPrototype/ShapeManager.java" />
-        <option value="$PROJECT_DIR$/src/Prototype/ExtandPrototype/ExtandPrototypeTest.java" />
         <option value="$PROJECT_DIR$/src/FactoryMethod/ReadXML.java" />
         <option value="$PROJECT_DIR$/src/FactoryMethod/Product.java" />
         <option value="$PROJECT_DIR$/src/FactoryMethod/ConcreteProduct1.java" />
@@ -97,6 +122,13 @@
         <option value="$PROJECT_DIR$/src/Singleton/LazySingleton.java" />
         <option value="$PROJECT_DIR$/src/Singleton/Multiton.java" />
         <option value="$PROJECT_DIR$/src/Singleton/SingletonTest.java" />
+        <option value="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Circle.java" />
+        <option value="$PROJECT_DIR$/src/Prototype/ExtandPrototype/ExtandPrototypeTest.java" />
+        <option value="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Shape.java" />
+        <option value="$PROJECT_DIR$/src/Prototype/ExtandPrototype/ShapeManager.java" />
+        <option value="$PROJECT_DIR$/src/Prototype/ExtandPrototype/Square.java" />
+        <option value="$PROJECT_DIR$/src/Prototype/SimplePrototype/PrototypeTest.java" />
+        <option value="$PROJECT_DIR$/src/Prototype/SimplePrototype/SimplePrototype.java" />
       </list>
     </option>
   </component>
@@ -131,7 +163,15 @@
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="Prototype" type="462c0819:PsiDirectoryNode" />
+              <item name="ExtandPrototype" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Prototype" type="462c0819:PsiDirectoryNode" />
+              <item name="SimplePrototype" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -283,12 +323,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566889861662</updated>
-      <workItem from="1566889862858" duration="4384000" />
+      <workItem from="1566889862858" duration="4460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4384000" />
+    <option name="totallyTimeSpent" value="4460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -407,74 +447,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/ShapeManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="e#147#162#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-          <folding>
-            <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/ExtandPrototypeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prototype/SimplePrototype/PrototypeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prototype/SimplePrototype/SimplePrototype.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -593,6 +569,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/ExtandPrototypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/ShapeManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Prototype/SimplePrototype/PrototypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Prototype/SimplePrototype/SimplePrototype.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
         </state>
       </provider>
     </entry>

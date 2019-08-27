@@ -2,7 +2,7 @@ package Prototype.ExtandPrototype;
 
 import java.util.HashMap;
 
-public class ShapeManager {
+public class ShapeManager {//
     private static HashMap<String,Shape> map=new HashMap<String, Shape>();
     public ShapeManager(){
         map.put("circle",new Circle());

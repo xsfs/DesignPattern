@@ -1,6 +1,6 @@
 package Prototype.ExtandPrototype;
 
-public class Square implements Shape {
+public class Square implements Shape {//
     private int D=0;
     public void setD(int d){
         D=d;

@@ -1,6 +1,6 @@
 package Prototype.SimplePrototype;
 
-public class PrototypeTest {
+public class PrototypeTest {//
     public static void main(String[] args){
         try {
             SimplePrototype simplePrototype = new SimplePrototype();

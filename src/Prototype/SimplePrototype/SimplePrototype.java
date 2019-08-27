@@ -1,6 +1,6 @@
 package Prototype.SimplePrototype;
 
-public class SimplePrototype implements Cloneable{
+public class SimplePrototype implements Cloneable{//
     public SimplePrototype(){
         System.out.println("builded successfully");
     }

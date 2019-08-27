@@ -1,6 +1,6 @@
 package Prototype.ExtandPrototype;
 
-public class ExtandPrototypeTest {
+public class ExtandPrototypeTest {//
     public static void main(String[] args){
         ShapeManager shapeManager=new ShapeManager();
         Circle circle=(Circle)shapeManager.get("circle");
