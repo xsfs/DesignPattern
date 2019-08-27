@@ -1,4 +1,4 @@
-package Prototype;
+package Prototype.SimplePrototype;
 
 public class SimplePrototype implements Cloneable{
     public SimplePrototype(){

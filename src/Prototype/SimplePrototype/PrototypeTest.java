@@ -1,4 +1,4 @@
-package Prototype;
+package Prototype.SimplePrototype;
 
 public class PrototypeTest {
     public static void main(String[] args){
