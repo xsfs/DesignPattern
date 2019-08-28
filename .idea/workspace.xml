@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe7c31dd-8992-4653-a805-a7150e9428c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Adapter/ClassAdapter/Adaptee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/ClassAdapter/ClassAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/ClassAdapter/ClassAdapterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/ClassAdapter/Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/ObjectAdapter/Adaptee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/ObjectAdapter/ObjectAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/ObjectAdapter/ObjectAdapterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/ObjectAdapter/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/TwoWayAdapter/AdapteeRealize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TargetRealize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TwoWagTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TwoWayAdaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TwoWayAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TwoWayAdapterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,42 +31,73 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Adapter/ObjectAdapter/ObjectAdapterTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TwoWayAdapterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            <state relative-caret-position="153">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Adapter/ObjectAdapter/ObjectAdapter.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TwoWayAdaptee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TwoWagTarget.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Adapter/TwoWayAdapter/AdapteeRealize.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
               <folding>
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Adapter/ObjectAdapter/Adaptee.java">
+        <entry file="file://$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TargetRealize.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="85">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Adapter/ObjectAdapter/Target.java">
+        <entry file="file://$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TwoWayAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="272">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <folding>
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,8 +107,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -94,13 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/FactoryMethod/FactoryMethod/ConcreteFactory2.java" />
-        <option value="$PROJECT_DIR$/src/FactoryMethod/SimpleFactory/ConcreteProduct1.java" />
-        <option value="$PROJECT_DIR$/src/FactoryMethod/SimpleFactory/ConcreteProduct2.java" />
-        <option value="$PROJECT_DIR$/src/FactoryMethod/FactoryMethod/ReadXML.java" />
-        <option value="$PROJECT_DIR$/src/FactoryMethod/SimpleFactory/SimpleFactory.java" />
-        <option value="$PROJECT_DIR$/src/FactoryMethod/SimpleFactory/SimpleFactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/Singleton/HungrySingleton.java" />
         <option value="$PROJECT_DIR$/src/Singleton/LazySingleton.java" />
         <option value="$PROJECT_DIR$/src/Singleton/Multiton.java" />
         <option value="$PROJECT_DIR$/src/Singleton/SingletonTest.java" />
@@ -145,6 +167,13 @@
         <option value="$PROJECT_DIR$/src/Adapter/ClassAdapter/ClassAdapterTest.java" />
         <option value="$PROJECT_DIR$/src/Adapter/ObjectAdapter/Target.java" />
         <option value="$PROJECT_DIR$/src/Adapter/ObjectAdapter/ObjectAdapter.java" />
+        <option value="$PROJECT_DIR$/src/Adapter/ObjectAdapter/ObjectAdapterTest.java" />
+        <option value="$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TwoWayAdaptee.java" />
+        <option value="$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TwoWagTarget.java" />
+        <option value="$PROJECT_DIR$/src/Adapter/TwoWayAdapter/AdapteeRealize.java" />
+        <option value="$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TargetRealize.java" />
+        <option value="$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TwoWayAdapter.java" />
+        <option value="$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TwoWayAdapterTest.java" />
       </list>
     </option>
   </component>
@@ -181,13 +210,7 @@
               <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
               <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
               <item name="Adapter" type="1f31426a:PackageElementNode" />
-              <item name="ClassAdapter" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DesignPattern" type="616d4139:PackageViewModuleNode" />
-              <item name="Adapter" type="1f31426a:PackageElementNode" />
-              <item name="ObjectAdapter" type="1f31426a:PackageElementNode" />
+              <item name="TwoWayAdapter" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -246,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ObjectAdapterTest">
+  <component name="RunManager" selected="Application.TwoWayAdapterTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -309,13 +332,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactoryMethod.SimpleFactory.SimpleFactoryTest" />
+    <configuration name="TwoWayAdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adapter.TwoWayAdapter.TwoWayAdapterTest" />
       <module name="DesignPattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FactoryMethod.SimpleFactory.*" />
+          <option name="PATTERN" value="Adapter.TwoWayAdapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -356,11 +379,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoWayAdapterTest" />
         <item itemvalue="Application.ObjectAdapterTest" />
         <item itemvalue="Application.ClassAdapterTest" />
         <item itemvalue="Application.DynamicProxyTest" />
         <item itemvalue="Application.ProxyTest" />
-        <item itemvalue="Application.SimpleFactoryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -375,12 +398,12 @@
       <option name="presentableId" value="Default" />
       <updated>1566889861662</updated>
       <workItem from="1566889862858" duration="7273000" />
-      <workItem from="1566956333422" duration="6286000" />
+      <workItem from="1566956333422" duration="7086000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13559000" />
+    <option name="totallyTimeSpent" value="14359000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -393,9 +416,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -404,7 +426,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -477,48 +499,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Singleton/SingletonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/ExtandPrototypeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/ShapeManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prototype/ExtandPrototype/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Prototype/SimplePrototype/PrototypeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -871,24 +851,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Adapter/ObjectAdapter/Target.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Adapter/ObjectAdapter/ObjectAdapterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -901,12 +867,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Adapter/ObjectAdapter/ObjectAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="e#154#155#0" expanded="true" />
             <element signature="e#181#182#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Adapter/ObjectAdapter/ObjectAdapterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TwoWayAdaptee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TwoWagTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Adapter/TwoWayAdapter/AdapteeRealize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TwoWayAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TargetRealize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Adapter/TwoWayAdapter/TwoWayAdapterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
