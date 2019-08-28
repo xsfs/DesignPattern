@@ -2,23 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47e9e240-f789-43a4-af97-f55a9130dad5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/ComplexConcreteFlyweight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/ConcreteFlyweight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/Flyweight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/FlyweightFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/FlyweightTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/UnshareConcreteFlyweight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyWeight/FlyWeight/ConcreteFlyweight1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyWeight/FlyWeight/ConcreteFlyweight2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyWeight/FlyWeight/Flyweight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyWeight/FlyWeight/FlyweightFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyWeight/FlyWeight/FlyweightTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyWeight/FlyWeight/UnshareConcreteFlyweight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyWeight/PureFlyWeight/ConcreteFlyweight1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyWeight/PureFlyWeight/ConcreteFlyweight2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyWeight/PureFlyWeight/Flyweight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyWeight/PureFlyWeight/FlyweightFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyWeight/PureFlyWeight/FlyweightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/ExtandComposite/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/ExtandComposite/Composite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/ExtandComposite/Leaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/ExtandComposite/SafeCompositeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/ExtandComposite/SubComposite1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/ExtandComposite/SubComposite2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/ExtandComposite/SubLeaf1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/ExtandComposite/SubLeaf2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/OpenComposite/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/OpenComposite/Composite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/OpenComposite/Leaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/OpenComposite/OpenCompositeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/SafeComposite/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/SafeComposite/Composite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/SafeComposite/Leaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite/SafeComposite/SafeCompositeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,69 +36,104 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="44" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Composite/ExtandComposite/Component.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Composite/ExtandComposite/Composite.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/ConcreteFlyweight.java">
+        <entry file="file://$PROJECT_DIR$/src/Composite/ExtandComposite/Leaf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/ComplexConcreteFlyweight.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#665#666#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/FlyweightTest.java">
+        <entry file="file://$PROJECT_DIR$/src/Composite/ExtandComposite/SafeCompositeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="85">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/UnshareConcreteFlyweight.java">
+        <entry file="file://$PROJECT_DIR$/src/Composite/ExtandComposite/SubLeaf1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/FlyweightFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+            <state relative-caret-position="102">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#101#102#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/Flyweight.java">
+        <entry file="file://$PROJECT_DIR$/src/Composite/ExtandComposite/SubLeaf2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            <state relative-caret-position="85">
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+              <folding>
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Composite/ExtandComposite/SubComposite1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="36" />
+              <folding>
+                <element signature="e#145#146#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Composite/ExtandComposite/SubComposite2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,8 +180,23 @@
         <option value="$PROJECT_DIR$/src/FlyWeight/PureFlyWeight/FlyweightTest.java" />
         <option value="$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/Flyweight.java" />
         <option value="$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/ComplexConcreteFlyweight.java" />
-        <option value="$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/FlyweightFactory.java" />
         <option value="$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/FlyweightTest.java" />
+        <option value="$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/FlyweightFactory.java" />
+        <option value="$PROJECT_DIR$/src/Composite/OpenComposite/Component.java" />
+        <option value="$PROJECT_DIR$/src/Composite/OpenComposite/Leaf.java" />
+        <option value="$PROJECT_DIR$/src/Composite/OpenComposite/Composite.java" />
+        <option value="$PROJECT_DIR$/src/Composite/OpenComposite/OpenCompositeTest.java" />
+        <option value="$PROJECT_DIR$/src/Composite/SafeComposite/Component.java" />
+        <option value="$PROJECT_DIR$/src/Composite/SafeComposite/Leaf.java" />
+        <option value="$PROJECT_DIR$/src/Composite/SafeComposite/Composite.java" />
+        <option value="$PROJECT_DIR$/src/Composite/SafeComposite/SafeCompositeTest.java" />
+        <option value="$PROJECT_DIR$/src/Composite/ExtandComposite/Leaf.java" />
+        <option value="$PROJECT_DIR$/src/Composite/ExtandComposite/SubLeaf1.java" />
+        <option value="$PROJECT_DIR$/src/Composite/ExtandComposite/SubLeaf2.java" />
+        <option value="$PROJECT_DIR$/src/Composite/ExtandComposite/SubComposite1.java" />
+        <option value="$PROJECT_DIR$/src/Composite/ExtandComposite/SubComposite2.java" />
+        <option value="$PROJECT_DIR$/src/Composite/ExtandComposite/Composite.java" />
+        <option value="$PROJECT_DIR$/src/Composite/ExtandComposite/SafeCompositeTest.java" />
       </list>
     </option>
   </component>
@@ -157,6 +206,8 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -176,14 +227,21 @@
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="FlyWeight" type="462c0819:PsiDirectoryNode" />
+              <item name="Composite" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="FlyWeight" type="462c0819:PsiDirectoryNode" />
-              <item name="ComplexFlyWeight" type="462c0819:PsiDirectoryNode" />
+              <item name="Composite" type="462c0819:PsiDirectoryNode" />
+              <item name="ExtandComposite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Composite" type="462c0819:PsiDirectoryNode" />
+              <item name="SafeComposite" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -202,7 +260,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Composite/ExtandComposite" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
@@ -212,6 +270,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Composite/ExtandComposite" />
+      <recent name="$PROJECT_DIR$/src/Composite/SafeComposite" />
       <recent name="$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight" />
       <recent name="$PROJECT_DIR$/src/FlyWeight/PureFlyWeight" />
       <recent name="$PROJECT_DIR$/src/Facade/ExtandFacade" />
@@ -229,23 +289,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FlyweightTest (2)">
+  <component name="RunManager" selected="Application.SafeCompositeTest (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExtandFacadeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Facade.ExtandFacade.ExtandFacadeTest" />
-      <module name="DesignPattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Facade.ExtandFacade.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -278,13 +324,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlyweightTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FlyWeight.FlyWeight.FlyweightTest" />
+    <configuration name="OpenCompositeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Composite.OpenComposite.OpenCompositeTest" />
       <module name="DesignPattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FlyWeight.FlyWeight.*" />
+          <option name="PATTERN" value="Composite.OpenComposite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,13 +338,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleFacadeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Facade.SimpleFacade.SimpleFacadeTest" />
+    <configuration name="SafeCompositeTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Composite.ExtandComposite.SafeCompositeTest" />
       <module name="DesignPattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Facade.SimpleFacade.*" />
+          <option name="PATTERN" value="Composite.ExtandComposite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SafeCompositeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Composite.SafeComposite.SafeCompositeTest" />
+      <module name="DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Composite.SafeComposite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -339,11 +399,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SafeCompositeTest (1)" />
+        <item itemvalue="Application.SafeCompositeTest" />
+        <item itemvalue="Application.OpenCompositeTest" />
         <item itemvalue="Application.FlyweightTest (2)" />
         <item itemvalue="Application.FlyweightTest (1)" />
-        <item itemvalue="Application.FlyweightTest" />
-        <item itemvalue="Application.ExtandFacadeTest" />
-        <item itemvalue="Application.SimpleFacadeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -357,12 +417,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566977165629</updated>
-      <workItem from="1566977166843" duration="4826000" />
+      <workItem from="1566977166843" duration="6725000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4826000" />
+    <option name="totallyTimeSpent" value="6725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -373,7 +433,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" />
@@ -383,7 +443,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -631,13 +691,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/ComplexConcreteFlyweight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -645,30 +698,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#665#666#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/ConcreteFlyweight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/UnshareConcreteFlyweight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/FlyweightFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -682,8 +711,191 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/FlyweightTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/ConcreteFlyweight.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/UnshareConcreteFlyweight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlyWeight/ComplexFlyWeight/FlyweightFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composite/OpenComposite/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" selection-start-line="3" selection-start-column="4" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composite/OpenComposite/Leaf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composite/OpenComposite/Composite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composite/OpenComposite/OpenCompositeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composite/SafeComposite/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composite/SafeComposite/Leaf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composite/SafeComposite/Composite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composite/SafeComposite/SafeCompositeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composite/ExtandComposite/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composite/ExtandComposite/Leaf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composite/ExtandComposite/SubLeaf1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composite/ExtandComposite/SubLeaf2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composite/ExtandComposite/SubComposite2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composite/ExtandComposite/SubComposite1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composite/ExtandComposite/Composite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composite/ExtandComposite/SafeCompositeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
         </state>
       </provider>
     </entry>
