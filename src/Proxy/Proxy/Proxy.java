@@ -1,4 +1,4 @@
-package Proxy;
+package Proxy.Proxy;
 
 public class Proxy implements Subject {
     private RealSubject realSubject=null;
