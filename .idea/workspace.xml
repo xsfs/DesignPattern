@@ -2,32 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47e9e240-f789-43a4-af97-f55a9130dad5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Visitor/Visitor/ConcreteElement1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/Visitor/ConcreteElement2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/Visitor/ConcreteVisitor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/Visitor/ConcreteVisitor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/Visitor/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/Visitor/ObjectStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/Visitor/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/Visitor/VisitorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorComposite/CompositeElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorComposite/ConcreteVisitor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorComposite/ConcreteVisitor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorComposite/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorComposite/LeafElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorComposite/ObjectStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorComposite/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorComposite/VisitorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteElement1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteElement2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteVisitor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteVisitor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/ObjectStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/VisitorIteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Memento/ExtandMemento/ExtandMementoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Memento/ExtandMemento/OriginatorPrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Memento/ExtandMemento/PrototypeCaretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Memento/Memento/Caretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Memento/Memento/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Memento/Memento/MementoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Memento/Memento/Originator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -42,73 +23,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/LeafElement.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="34">
+              <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Memento/ExtandMemento/OriginatorPrototype.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <folding>
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Memento/ExtandMemento/PrototypeCaretaker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding>
                 <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/CompositeElement.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Memento/ExtandMemento/ExtandMementoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#272#273#0" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
-                <element signature="e#511#512#0" expanded="true" />
-                <element signature="e#547#548#0" expanded="true" />
-                <element signature="e#582#583#0" expanded="true" />
-                <element signature="e#620#621#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/Visitor.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/ConcreteVisitor2.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/ObjectStructure.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/Element.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/ConcreteVisitor1.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/VisitorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+            <state relative-caret-position="187">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -129,13 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Observer/Observer/ConcreteObserver2.java" />
-        <option value="$PROJECT_DIR$/src/Observer/Observer/Subject.java" />
-        <option value="$PROJECT_DIR$/src/Observer/Observer/ObserverTest.java" />
-        <option value="$PROJECT_DIR$/src/Observer/Observer/ConcreteSubject.java" />
-        <option value="$PROJECT_DIR$/src/Observer/ExtandObserver/ConcreteSubject.java" />
-        <option value="$PROJECT_DIR$/src/Observer/ExtandObserver/ConcreteObserver1.java" />
-        <option value="$PROJECT_DIR$/src/Observer/ExtandObserver/ExtandObserverTest.java" />
         <option value="$PROJECT_DIR$/src/Observer/ExtandObserver/ConcreteObserver2.java" />
         <option value="$PROJECT_DIR$/src/Mediator/Mediator/Colleague.java" />
         <option value="$PROJECT_DIR$/src/Mediator/Mediator/Mediator.java" />
@@ -180,6 +135,13 @@
         <option value="$PROJECT_DIR$/src/Visitor/VisitorComposite/VisitorTest.java" />
         <option value="$PROJECT_DIR$/src/Visitor/VisitorComposite/CompositeElement.java" />
         <option value="$PROJECT_DIR$/src/Visitor/VisitorComposite/LeafElement.java" />
+        <option value="$PROJECT_DIR$/src/Memento/Memento/Memento.java" />
+        <option value="$PROJECT_DIR$/src/Memento/Memento/Caretaker.java" />
+        <option value="$PROJECT_DIR$/src/Memento/Memento/Originator.java" />
+        <option value="$PROJECT_DIR$/src/Memento/Memento/MementoTest.java" />
+        <option value="$PROJECT_DIR$/src/Memento/ExtandMemento/OriginatorPrototype.java" />
+        <option value="$PROJECT_DIR$/src/Memento/ExtandMemento/PrototypeCaretaker.java" />
+        <option value="$PROJECT_DIR$/src/Memento/ExtandMemento/ExtandMementoTest.java" />
       </list>
     </option>
   </component>
@@ -212,14 +174,14 @@
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="Memento" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Iterator" type="462c0819:PsiDirectoryNode" />
-              <item name="Iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="Memento" type="462c0819:PsiDirectoryNode" />
+              <item name="ExtandMemento" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -265,20 +227,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VisitorTest (1)">
+  <component name="RunManager" selected="Application.ExtandMementoTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtandIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Iterator.ExtandIterator.ExtandIteratorTest" />
+    <configuration name="ExtandMementoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Memento.ExtandMemento.ExtandMementoTest" />
       <module name="DesignPattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Iterator.ExtandIterator.*" />
+          <option name="PATTERN" value="Memento.ExtandMemento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,13 +248,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Iterator.Iterator.IteratorTest" />
+    <configuration name="MementoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Memento.Memento.MementoTest" />
       <module name="DesignPattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Iterator.Iterator.*" />
+          <option name="PATTERN" value="Memento.Memento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -389,11 +351,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExtandMementoTest" />
+        <item itemvalue="Application.MementoTest" />
         <item itemvalue="Application.VisitorTest (1)" />
         <item itemvalue="Application.VisitorIteratorTest" />
         <item itemvalue="Application.VisitorTest" />
-        <item itemvalue="Application.ExtandIteratorTest" />
-        <item itemvalue="Application.IteratorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -409,12 +371,12 @@
       <updated>1566977165629</updated>
       <workItem from="1566977166843" duration="7100000" />
       <workItem from="1567042347058" duration="12351000" />
-      <workItem from="1567132055827" duration="3173000" />
+      <workItem from="1567132055827" duration="5096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22624000" />
+    <option name="totallyTimeSpent" value="24547000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -427,7 +389,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -464,96 +425,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Observer/ExtandObserver/ConcreteObserver2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Observer/ExtandObserver/ExtandObserverTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mediator/Mediator/Mediator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mediator/Mediator/ConcreteMediator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mediator/Mediator/MediatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mediator/Mediator/Colleague.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mediator/Mediator/ConcreteColleague2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mediator/Mediator/ConcreteColleague1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="36" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mediator/ExtandMediator/SimpleMediator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Mediator/ExtandMediator/SimpleConcreteColleague2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -738,13 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteVisitor1.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -901,6 +765,114 @@
             <element signature="e#140#141#0" expanded="true" />
             <element signature="e#175#176#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Prototype/SimplePrototype/SimplePrototype.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Prototype/SimplePrototype/PrototypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Memento/Memento/Memento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Memento/Memento/Originator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Memento/Memento/Caretaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Memento/Memento/MementoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Memento/ExtandMemento/PrototypeCaretaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Memento/ExtandMemento/OriginatorPrototype.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Memento/ExtandMemento/ExtandMementoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
         </state>
       </provider>
     </entry>
