@@ -2,17 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47e9e240-f789-43a4-af97-f55a9130dad5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Iterator/ExtandIterator/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterator/ExtandIterator/Composite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterator/ExtandIterator/ConcreteIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterator/ExtandIterator/ExtandIteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterator/ExtandIterator/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterator/ExtandIterator/Leaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterator/Iterator/Aggregate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterator/Iterator/ConcreteAggregate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterator/Iterator/ConcreteIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterator/Iterator/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iterator/Iterator/IteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/Visitor/ConcreteElement1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/Visitor/ConcreteElement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/Visitor/ConcreteVisitor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/Visitor/ConcreteVisitor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/Visitor/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/Visitor/ObjectStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/Visitor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/Visitor/VisitorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorComposite/CompositeElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorComposite/ConcreteVisitor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorComposite/ConcreteVisitor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorComposite/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorComposite/LeafElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorComposite/ObjectStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorComposite/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorComposite/VisitorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteElement1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteElement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteVisitor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteVisitor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/ObjectStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visitor/VisitorIterator/VisitorIteratorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,82 +42,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/LeafElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="44" />
+            <state relative-caret-position="153">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+              <folding>
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Iterator/ExtandIterator/Component.java">
+        <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/CompositeElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Iterator/ExtandIterator/Composite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            <state relative-caret-position="170">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#224#225#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#645#646#0" expanded="true" />
-                <element signature="e#689#690#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#547#548#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Iterator/ExtandIterator/Iterator.java">
+        <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/Visitor.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/ConcreteVisitor2.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/ObjectStructure.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/Element.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Iterator/ExtandIterator/ConcreteIterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-              <folding>
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Iterator/ExtandIterator/ExtandIteratorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/ConcreteVisitor1.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Iterator/ExtandIterator/Leaf.java">
+        <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/VisitorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#152#153#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -123,27 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ChainofResponsibility/FullChainofResponsibility/ConcreteHandler.java" />
-        <option value="$PROJECT_DIR$/src/ChainofResponsibility/FullChainofResponsibility/ConcreteHandler1.java" />
-        <option value="$PROJECT_DIR$/src/ChainofResponsibility/FullChainofResponsibility/ConcreteHandler2.java" />
-        <option value="$PROJECT_DIR$/src/ChainofResponsibility/FullChainofResponsibility/FullChainTest.java" />
-        <option value="$PROJECT_DIR$/src/ChainofResponsibility/PartChainofResponsibility/Handler.java" />
-        <option value="$PROJECT_DIR$/src/ChainofResponsibility/PartChainofResponsibility/FullChainTest.java" />
-        <option value="$PROJECT_DIR$/src/ChainofResponsibility/PartChainofResponsibility/ConcreteHandler2.java" />
-        <option value="$PROJECT_DIR$/src/ChainofResponsibility/PartChainofResponsibility/ConcreteHandler1.java" />
-        <option value="$PROJECT_DIR$/src/ChainofResponsibility/PartChainofResponsibility/PartChainTest.java" />
-        <option value="$PROJECT_DIR$/src/State/State/State.java" />
-        <option value="$PROJECT_DIR$/src/State/State/ConcreteState2.java" />
-        <option value="$PROJECT_DIR$/src/State/State/ConcreteState1.java" />
-        <option value="$PROJECT_DIR$/src/State/State/StateTest.java" />
-        <option value="$PROJECT_DIR$/src/State/State/Context.java" />
-        <option value="$PROJECT_DIR$/src/State/ExtandState/StateTest.java" />
-        <option value="$PROJECT_DIR$/src/State/ExtandState/Context.java" />
-        <option value="$PROJECT_DIR$/src/State/ExtandState/ExtandStateTest.java" />
-        <option value="$PROJECT_DIR$/src/State/ExtandState/ConcreteState2.java" />
-        <option value="$PROJECT_DIR$/src/State/ExtandState/ConcreteState1.java" />
-        <option value="$PROJECT_DIR$/src/Observer/Observer/Observer.java" />
-        <option value="$PROJECT_DIR$/src/Observer/Observer/ConcreteObserver1.java" />
         <option value="$PROJECT_DIR$/src/Observer/Observer/ConcreteObserver2.java" />
         <option value="$PROJECT_DIR$/src/Observer/Observer/Subject.java" />
         <option value="$PROJECT_DIR$/src/Observer/Observer/ObserverTest.java" />
@@ -174,6 +159,27 @@
         <option value="$PROJECT_DIR$/src/Iterator/ExtandIterator/ConcreteIterator.java" />
         <option value="$PROJECT_DIR$/src/Iterator/ExtandIterator/Composite.java" />
         <option value="$PROJECT_DIR$/src/Iterator/ExtandIterator/ExtandIteratorTest.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/Visitor/Element.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/Visitor/Visitor.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/Visitor/ConcreteElement1.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/Visitor/ConcreteElement2.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/Visitor/ConcreteVisitor1.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/Visitor/ConcreteVisitor2.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/Visitor/OjectStructure.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/Visitor/ObjectStructure.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/Visitor/VisitorTest.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteElement2.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteElement1.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/VisitorIterator/ObjectStructure.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteIterator.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/VisitorIterator/Iterator.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/VisitorIterator/VisitorTest.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/VisitorComposite/ConcreteElement1.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/VisitorComposite/ConcreteElement2.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/VisitorComposite/Element.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/VisitorComposite/VisitorTest.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/VisitorComposite/CompositeElement.java" />
+        <option value="$PROJECT_DIR$/src/Visitor/VisitorComposite/LeafElement.java" />
       </list>
     </option>
   </component>
@@ -188,6 +194,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,13 +219,6 @@
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Iterator" type="462c0819:PsiDirectoryNode" />
-              <item name="ExtandIterator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Iterator" type="462c0819:PsiDirectoryNode" />
               <item name="Iterator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -229,15 +230,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Observer/ExtandObserver" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Visitor/VisitorComposite" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -247,11 +246,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Visitor/VisitorComposite" />
+      <recent name="$PROJECT_DIR$/src/Visitor/VisitorIterator" />
       <recent name="$PROJECT_DIR$/src/Observer/ExtandObserver" />
       <recent name="$PROJECT_DIR$/src/State/ExtandState" />
       <recent name="$PROJECT_DIR$/src/ChainofResponsibility/PartChainofResponsibility" />
-      <recent name="$PROJECT_DIR$/src/Command/ExtandCommand" />
-      <recent name="$PROJECT_DIR$/src/Strategy/ExtendStrategy" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -266,7 +265,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExtandIteratorTest">
+  <component name="RunManager" selected="Application.VisitorTest (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -280,20 +279,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Iterator.ExtandIterator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExtandObserverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Observer.ExtandObserver.ExtandObserverTest" />
-      <module name="DesignPattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Observer.ExtandObserver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,20 +300,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MediatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mediator.Mediator.MediatorTest" />
-      <module name="DesignPattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Mediator.Mediator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SimpleMediatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mediator.ExtandMediator.SimpleMediatorTest" />
       <module name="DesignPattern" />
@@ -336,6 +307,48 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Mediator.ExtandMediator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisitorIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Visitor.VisitorIterator.VisitorIteratorTest" />
+      <module name="DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Visitor.VisitorIterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisitorTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Visitor.VisitorComposite.VisitorTest" />
+      <module name="DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Visitor.VisitorComposite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisitorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Visitor.Visitor.VisitorTest" />
+      <module name="DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Visitor.Visitor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -376,11 +389,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VisitorTest (1)" />
+        <item itemvalue="Application.VisitorIteratorTest" />
+        <item itemvalue="Application.VisitorTest" />
         <item itemvalue="Application.ExtandIteratorTest" />
         <item itemvalue="Application.IteratorTest" />
-        <item itemvalue="Application.SimpleMediatorTest" />
-        <item itemvalue="Application.MediatorTest" />
-        <item itemvalue="Application.ExtandObserverTest" />
       </list>
     </recent_temporary>
   </component>
@@ -395,12 +408,13 @@
       <option name="presentableId" value="Default" />
       <updated>1566977165629</updated>
       <workItem from="1566977166843" duration="7100000" />
-      <workItem from="1567042347058" duration="12129000" />
+      <workItem from="1567042347058" duration="12351000" />
+      <workItem from="1567132055827" duration="3173000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19229000" />
+    <option name="totallyTimeSpent" value="22624000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -415,7 +429,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -450,226 +464,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ChainofResponsibility/FullChainofResponsibility/Handler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChainofResponsibility/FullChainofResponsibility/ConcreteHandler1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChainofResponsibility/FullChainofResponsibility/ConcreteHandler2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChainofResponsibility/FullChainofResponsibility/FullChainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChainofResponsibility/PartChainofResponsibility/Handler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChainofResponsibility/PartChainofResponsibility/ConcreteHandler1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChainofResponsibility/PartChainofResponsibility/ConcreteHandler2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChainofResponsibility/PartChainofResponsibility/PartChainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/State/State/State.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/State/State/ConcreteState2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/State/State/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-          <folding>
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/State/State/StateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/State/State/ConcreteState1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/State/ExtandState/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/State/ExtandState/ExtandStateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/State/ExtandState/State.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/State/ExtandState/ConcreteState2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/State/ExtandState/ConcreteState1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Observer/Observer/ConcreteObserver2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Observer/Observer/ConcreteObserver1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Observer/Observer/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Observer/Observer/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Observer/Observer/ObserverTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Observer/Observer/ConcreteSubject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Observer/ExtandObserver/ConcreteObserver1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Observer/ExtandObserver/ConcreteSubject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Observer/ExtandObserver/ConcreteObserver2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -796,29 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/Iterator/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/Iterator/ConcreteAggregate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Iterator/Iterator/Aggregate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -826,41 +597,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/Iterator/ConcreteIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/Iterator/Iterator/IteratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="170">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Iterator/ExtandIterator/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Iterator/ExtandIterator/Composite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/ExtandIterator/ConcreteIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding>
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/ExtandIterator/Leaf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -872,40 +634,273 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/Iterator/IteratorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Iterator/ExtandIterator/ConcreteIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/ExtandIterator/Composite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#645#646#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/ExtandIterator/Component.java">
+    <entry file="file://$PROJECT_DIR$/src/Iterator/ExtandIterator/Leaf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Iterator/ExtandIterator/ExtandIteratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+        <state relative-caret-position="323">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/Visitor/ConcreteElement2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/Visitor/ConcreteElement1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/Visitor/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/Visitor/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/Visitor/ConcreteVisitor1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/Visitor/ObjectStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/Visitor/ConcreteVisitor2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/Visitor/VisitorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteVisitor1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorIterator/Element.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteVisitor2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorIterator/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteElement2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+          <folding>
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteElement1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+          <folding>
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Iterator/Iterator/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Iterator/Iterator/ConcreteIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Iterator/Iterator/ConcreteAggregate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorIterator/ObjectStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorIterator/ConcreteIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorIterator/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorIterator/VisitorIteratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/ObjectStructure.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/ConcreteVisitor1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/ConcreteVisitor2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/CompositeElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/VisitorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visitor/VisitorComposite/LeafElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
